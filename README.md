@@ -11,7 +11,7 @@ Please build an app displaying the 5 day weather forecast for a location of your
 
 * Give some thought to what will make a decent user experience. We would like to see something readable but with no need to go all out on sleek and flashy UI elements. --> classic uitableview
 
-* Use any supporting technologies, package managers, build systems, component libraries that you are familiar with and feel are appropriate. --> I did not use any third party library
+* Use any supporting technologies, package managers, build systems, component libraries that you are familiar with and feel are appropriate. --> I did not use any third part library
 
 ### **NOTE**
 
